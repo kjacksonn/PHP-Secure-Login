@@ -38,6 +38,14 @@ You can log in using the following test account:
 4. Visit `http://localhost/PHP-Secure-Login/` in your browser
 5. Test login via either method
 
+## 📸 Screenshots
+
+### Login Form
+![Login Form](screenshots/login-form.png)
+
+### Registration Form
+![Registration Form](screenshots/registration-form.png)
+
 ## 🧠 Skills Demonstrated
 
 - Authentication & password hashing
