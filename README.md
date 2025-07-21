@@ -46,6 +46,7 @@ You can log in using the following test account:
 ### Registration Form
 ![Registration Form](screenshots/registration-form.png)
 
+Sample data only — all entries are test users with hashed passwords.
 ### Security Database
 ![Registration Form](screenshots/security-db.png)
 
