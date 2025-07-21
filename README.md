@@ -46,13 +46,15 @@ You can log in using the following test account:
 ### Registration Form
 ![Registration Form](screenshots/registration-form.png)
 
+### Connect DB Proof
+![Registration Form](screenshots/connect-db.png)
+
+### Successful Login
+![Registration Form](screenshots/login-success.png)
+
 ## 🧠 Skills Demonstrated
 
 - Authentication & password hashing
 - Secure database interaction (PDO)
 - Form validation & session handling
 - Real-world debugging of environment configs
-
-## 📸 Optional
-
-You can add screenshots of the login and registration pages here.
