@@ -46,6 +46,9 @@ You can log in using the following test account:
 ### Registration Form
 ![Registration Form](screenshots/registration-form.png)
 
+### Security Database
+![Registration Form](screenshots/security-db.png)
+
 ### Connect DB Proof
 ![Registration Form](screenshots/connect-db.png)
 
